@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PopUp</string>
+    <string name="button" />
+    <string name="button_name">Exit Out</string>
+    <string name="title">Leave Now</string>
+    <string name="message">Are You Sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no"> No</string>
+</resources>
